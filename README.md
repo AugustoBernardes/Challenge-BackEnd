@@ -18,6 +18,7 @@
 + POST - /login   ```(Make the login and create a JWT token)```
 + POST - /update/:id   ```(Update the status of the movie to aproved)```
 + POST - /addmovie   ```(Add movie on data base)```
++ DELETE - /remove/:id  ```(Remove movie from database)```
 ---
 ## Observations 
 + Challenge [Read.me](https://github.com/Mestres-da-Web/desafio-backend-pleno)
