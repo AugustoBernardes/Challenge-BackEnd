@@ -5,7 +5,8 @@
 ### That's a challenge created by Mestres da web, and this is my code solving this problem 💡 Objective was to create a movie theater sistem using NodeJs.
 ---
 ## Sistem functions 
-+ Validate login
++ Validate login, and create a JWT token
++ Validate data received with JOI
 + Add a new movie
 + Delete movie
 + Update movie status
