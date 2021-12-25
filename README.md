@@ -31,7 +31,7 @@
 
 + [NodeJs](https://nodejs.org/en/)
 + [MongoDB](https://docs.mongodb.com)
-+ [EJS](https://jwt.io)
++ [Jwt](https://jwt.io)
 
 ---
 # Dependencies
